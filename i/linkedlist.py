@@ -97,6 +97,7 @@ ll.insertatend(3)
 ll.insertatmiddle(1,4)
 # print("fifth node--------------------")
 ll.insertatbegin(5)
+ll.insertatend(6)
 
 
 ll.display()
