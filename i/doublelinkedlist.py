@@ -99,6 +99,7 @@ dll.display()
 dll.deleteend()
 print("\n\n")
 dll.display()
+
 print("\n\n")
 dll.displayreverse()
 print("\n")
