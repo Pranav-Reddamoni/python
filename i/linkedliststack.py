@@ -3,7 +3,7 @@ class node:
         self.data = data
         self.next = None
 class stack:
-    # capacity = int(input("\nEnter the capacity of stack: "))
+
     top = 0
 
     def __init__(self):
